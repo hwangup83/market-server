@@ -1,0 +1,11 @@
+# 민감한 키 파일
+*.pem
+
+# 로그 파일
+*.log
+
+# 환경 변수 파일
+.env
+
+# node_modules 등 패키지
+node_modules/
