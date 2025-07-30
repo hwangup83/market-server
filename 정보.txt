@@ -1,0 +1,17 @@
+eks 
+
+react 개발 user패더레이션 spa / mobx
+
+AWS
+root : hwangup83@gmail.com
+pw : Hdmlvlf0619!@#
+IAM :manager
+pw : AKIA6G55KZ5YHPTEJVMR
+
+jenkins 
+
+id : master-market
+pw : 25년부터시작!
+
+git 
+주소 : https://github.com/hwangup83/market-server.git
